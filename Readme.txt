@@ -1,0 +1,2 @@
+The zip file consists of a folder named '21f1002810'. Open that file and navigate to app.py . Run it and click on the link in the terminal. The Login page will appear.
+There is another .txt file named 'Project presentation video link' in which the link for the video presentation is being given. Please copy that link and paste it in your browser to access the video presentation.
